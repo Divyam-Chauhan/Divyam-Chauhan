@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Working on The AI-Director(Dream Project).<br>An AI-ML Enjoyer<br>love playing with LLMs (LLMops)<br>I am a developer focused on the intersection of creativity and logic.
+Currently Working on The AI-Director(Dream Project).<br>An AI-ML Enjoyer<br>love playing with LLMs (LLMops)<br>I am a problem solver focused on the intersection of creativity and logic.
 
 
 ## 🌐 Socials:
