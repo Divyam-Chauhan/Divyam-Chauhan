@@ -28,7 +28,7 @@ deep into full-stack development, structured technical demos, and Vibe Coding.
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**[Concept One](https://github.com/Divyam-Chauhan/Concept-One)** &nbsp;·&nbsp; <samp>vanilla js, gsap, locomotive scroll</samp><br>
+**[Concept One](https://github.com/Divyam-Chauhan/Concept)** &nbsp;·&nbsp; <samp>vanilla js, gsap, locomotive scroll</samp><br>
 A zero-framework high-performance 3D interactive web experience featuring a kinetic sequence<br>
 of a Koenigsegg One with dynamic assembly/disassembly mechanics.
 
